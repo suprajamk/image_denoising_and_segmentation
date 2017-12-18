@@ -1,0 +1,5 @@
+Python 3.5
+numpy
+opencv-python
+scipy
+
